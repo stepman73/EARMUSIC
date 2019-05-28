@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\5f71b184c0edc3b2dd9cb24e1682d204\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b11b8979f84a38f7c43640eb651624a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\60d39c6a2c70d6240e6ecd2b64d54afd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b4f3d3446c0cd1ab26803281132eadc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\489f0e9d52a42ecec8fc202f13fee214\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\19d5f646045b27bccf0e3cb37e2e193b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\59eabf20133a90151d43c853c2b4dba1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a43ded56ca156971ca6ac78c716c7c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\311167bc18136ee939dceff80e71db49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f6b0d11f426b993640cdee0e73252c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f5a5d295dde383e6b061744801301253\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\86aec4358fbe2557c79cc1608403c38f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\dae62de480e53dabdf3155b86977dadd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\928ce31f46a6c1c61479332a6c6c9761\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\d698b361211dde24e99706ca937332ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\bc804893e1696c017151e74ba90226fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\82d7f6c206c6d5d6e8b317f55fb8c89a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\9efae7c69805cd4c604331781d899622\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\93d865daef980fe3b3c7374d9234ab66\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a8fd3343b3d201afc3bb51f099abf91d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\0bed9910ed2942edeccb3a56ff3463f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\4a7dab6923f36973bf42912dbcf98b66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1ba3e0214be0fd0e9970d3f78a63ed1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\c43e3d32462551ae84581b698045c523\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1438baae4eaf3eab6c2f4e5e97c463bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f83099887784c58942a3cbcb19e0c39e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b34563a3d310da554de8b596aa44843f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\d8489aec13e4235fb28cda2ccfdb0e6d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1de9db7b57e4b3491179d009452d6239\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\3e57a300bbfca07170befd64b61980ad\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:7:5-95
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:8:5-92
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\5f71b184c0edc3b2dd9cb24e1682d204\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\5f71b184c0edc3b2dd9cb24e1682d204\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\9efae7c69805cd4c604331781d899622\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\9efae7c69805cd4c604331781d899622\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\93d865daef980fe3b3c7374d9234ab66\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\93d865daef980fe3b3c7374d9234ab66\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\9efae7c69805cd4c604331781d899622\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:17:9-40
+activity#book.bookReview.MainActivity
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:18:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:22:27-74
+activity#book.bookReview.ListenMusicActivity
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:parentActivityName
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:25:70-127
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:25:19-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:26:13-128
+	android:value
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:26:71-115
+	android:name
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml:26:24-70
+uses-sdk
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\5f71b184c0edc3b2dd9cb24e1682d204\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\5f71b184c0edc3b2dd9cb24e1682d204\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b11b8979f84a38f7c43640eb651624a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b11b8979f84a38f7c43640eb651624a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\60d39c6a2c70d6240e6ecd2b64d54afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\60d39c6a2c70d6240e6ecd2b64d54afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b4f3d3446c0cd1ab26803281132eadc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b4f3d3446c0cd1ab26803281132eadc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\489f0e9d52a42ecec8fc202f13fee214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\489f0e9d52a42ecec8fc202f13fee214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\19d5f646045b27bccf0e3cb37e2e193b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\19d5f646045b27bccf0e3cb37e2e193b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\59eabf20133a90151d43c853c2b4dba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\59eabf20133a90151d43c853c2b4dba1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a43ded56ca156971ca6ac78c716c7c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a43ded56ca156971ca6ac78c716c7c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\311167bc18136ee939dceff80e71db49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\311167bc18136ee939dceff80e71db49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f6b0d11f426b993640cdee0e73252c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f6b0d11f426b993640cdee0e73252c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f5a5d295dde383e6b061744801301253\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f5a5d295dde383e6b061744801301253\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\86aec4358fbe2557c79cc1608403c38f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\86aec4358fbe2557c79cc1608403c38f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\dae62de480e53dabdf3155b86977dadd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\dae62de480e53dabdf3155b86977dadd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\928ce31f46a6c1c61479332a6c6c9761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\928ce31f46a6c1c61479332a6c6c9761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\d698b361211dde24e99706ca937332ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\d698b361211dde24e99706ca937332ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\bc804893e1696c017151e74ba90226fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\bc804893e1696c017151e74ba90226fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\82d7f6c206c6d5d6e8b317f55fb8c89a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\82d7f6c206c6d5d6e8b317f55fb8c89a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\9efae7c69805cd4c604331781d899622\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\9efae7c69805cd4c604331781d899622\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\93d865daef980fe3b3c7374d9234ab66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\93d865daef980fe3b3c7374d9234ab66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a8fd3343b3d201afc3bb51f099abf91d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a8fd3343b3d201afc3bb51f099abf91d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\0bed9910ed2942edeccb3a56ff3463f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\0bed9910ed2942edeccb3a56ff3463f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\4a7dab6923f36973bf42912dbcf98b66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\4a7dab6923f36973bf42912dbcf98b66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1ba3e0214be0fd0e9970d3f78a63ed1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1ba3e0214be0fd0e9970d3f78a63ed1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\c43e3d32462551ae84581b698045c523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\c43e3d32462551ae84581b698045c523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1438baae4eaf3eab6c2f4e5e97c463bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1438baae4eaf3eab6c2f4e5e97c463bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f83099887784c58942a3cbcb19e0c39e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\f83099887784c58942a3cbcb19e0c39e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b34563a3d310da554de8b596aa44843f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\b34563a3d310da554de8b596aa44843f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\d8489aec13e4235fb28cda2ccfdb0e6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\d8489aec13e4235fb28cda2ccfdb0e6d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1de9db7b57e4b3491179d009452d6239\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\1de9db7b57e4b3491179d009452d6239\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\3e57a300bbfca07170befd64b61980ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\3e57a300bbfca07170befd64b61980ad\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Stepan\AndroidStudioProjects\AndroidBookReview-master\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Stepan\.gradle\caches\transforms-2\files-2.1\a627143347e57420de027746eeec54cf\AndroidManifest.xml:9:13-64
